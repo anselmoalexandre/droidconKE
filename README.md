@@ -352,6 +352,13 @@ We would endlessly like to thank the following contributors
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/anselmoalexandre">
+            <img src="https://avatars.githubusercontent.com/u/13046542?v=4" width="100;" alt="anselmoalexandre"/>
+            <br />
+            <sub><b>Anselmo Alexandre</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/BKinya">
             <img src="https://avatars.githubusercontent.com/u/30239692?v=4" width="100;" alt="BKinya"/>
             <br />
@@ -364,15 +371,15 @@ We would endlessly like to thank the following contributors
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Jeremy-Gitau">
             <img src="https://avatars.githubusercontent.com/u/56400436?v=4" width="100;" alt="Jeremy-Gitau"/>
             <br />
             <sub><b>Jeremy</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/josphatmwania">
             <img src="https://avatars.githubusercontent.com/u/82445335?v=4" width="100;" alt="josphatmwania"/>
@@ -407,7 +414,8 @@ We would endlessly like to thank the following contributors
             <br />
             <sub><b>Joenjogu</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/lokified">
             <img src="https://avatars.githubusercontent.com/u/87479198?v=4" width="100;" alt="lokified"/>
